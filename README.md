@@ -26,6 +26,18 @@
 
 Работаю с небольшими задачами с понятным результатом. Перед началом уточняю входные данные, ожидаемый результат и критерии готовности.
 
+## Небольшие проекты
+
+Демо-репозитории с исходным кодом и инструкциями по запуску:
+
+| Проект | Что делает |
+| --- | --- |
+| [CSV Cleaner](https://github.com/et3nalblade/csv-cleaner) | Чистит CSV: нормализует заголовки, убирает пустые и повторные строки. |
+| [Folder Organizer](https://github.com/et3nalblade/folder-organizer) | Сортирует файлы по типам; сначала показывает план, затем перемещает по команде. |
+| [Task List API](https://github.com/et3nalblade/fastapi-todo) | CRUD REST API на FastAPI и SQLite с документацией Swagger. |
+
+Это демонстрационные проекты, а не клиентские кейсы.
+
 ## Технологии
 
 **Python · FastAPI · Flask · aiogram · SQLAlchemy · PostgreSQL · SQLite · Git**
